@@ -1,0 +1,48 @@
+
+/* Style the container */
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+/* Style the heading */
+h1 {
+    color: #333;
+}
+
+/* Style the buttons */
+.buttons {
+    margin-top: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin: 0 10px;
+    cursor: pointer;
+}
+
+.login-btn {
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+}
+.login-btn:hover{
+    background-color: #67e19a;
+}
+
+.signup-btn {
+    background-color:  #3498db;
+    color: #fff;
+    border: none;
+}
+
+.signup-btn:hover{
+    background-color: #67e19a;
+}
+
+/* Style the family tree image */
+.family-tree-image {
+    max-width: 100%;
+    margin-top: 20px;
+}

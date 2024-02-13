@@ -1,0 +1,56 @@
+section.button-container {
+    margin-top: 10px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    display: flex;
+  }
+  
+  .form-btn {
+    padding: 10px;
+    margin-right: 10px;
+    margin-bottom: 25px;
+    background-color: #6398e7;
+    color: #010e04;
+    border: none;
+    cursor: pointer;
+  }
+
+  .form-btn:hover{
+    background-color: #44e154;
+  }
+
+
+  section .familt-data{
+    height: 70vh;
+    max-width: 550px;
+    margin-top: 20px;
+    margin: 25px auto;
+    padding: 35px 10px;
+    box-shadow: 0 0 15px -10px #163468;
+    background-color: #eaed9c;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+section.Add-container{
+    margin-top: 10px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.data-btn{
+    margin-bottom: -20px;
+}
+.data-btn:hover{
+    background-color: #44e154;
+}
+.new-data{
+    margin-left: 15px;
+    margin-top: 10px;
+}

@@ -1,0 +1,138 @@
+.page-container {
+    height: 80vh;
+    max-width: 550px;
+    margin-top: 20px;
+    margin: 25px auto;
+    padding: 35px 10px;
+    box-shadow: 0 0 15px -10px #163468;
+    background-color: #b4b4b0;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .right-btn:hover{
+    background-color: #939721;
+}
+  .right2-btn:hover{
+    background-color: #899224;
+   } 
+
+  
+ 
+  
+  .right-btn {
+    display:block;
+    width: 100%;
+    padding: 10px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    background-color:#1a365d;
+    color: #fff;
+    font-weight: 60;
+    font-size: 8px;
+    margin-top: 3px;
+    cursor: pointer;
+    transition: all .3s;
+   
+
+    
+  }
+
+ 
+
+.left2-btn:hover{
+    background-color: #878d1f;
+}  
+.left-btn:hover{
+    background-color: #878d1f;
+}
+ 
+ 
+
+
+
+  /* .right2-btn {
+    display:block;
+    width: 100%;
+    padding: 10px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    background-color:#1a365d;
+    color: #fff;
+    font-weight: 60;
+    font-size: 8px;
+    margin-top: 3px;
+    cursor: pointer;
+    transition: all .3s;   
+  } */
+  .right2-btn {
+    display:block;
+    width: 100%;
+    padding: 10px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    background-color:#1a365d;
+    color: #fff;
+    font-weight: 60;
+    font-size: 13px;
+    margin-top: 3px;
+    cursor: pointer;
+    transition: all .3s;   
+  }
+  
+  .left-btn {
+    display:block;
+    margin-left: 480px;
+    width: 12%;
+    padding: 10px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    background-color:#1a365d;
+    color: #fff;
+    font-weight: 60;
+    font-size: 13px;
+    margin-top: 3px;
+    cursor: pointer;
+    transition: all .3s;   
+  }
+
+  .left2-btn {
+    display:block;
+    margin-left: 480px;
+    width: 12%;
+    padding: 10px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    background-color:#1a365d;
+    color: #fff;
+    font-weight: 60;
+    font-size: 13px;
+    margin-top: 3px;
+    cursor: pointer;
+    transition: all .3s;   
+  }
+
+  .central-circle {
+    position: absolute;
+    top: 30%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+  }
+  
+ 
+  .form-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: yellow;
+    padding: 20px;
+    border-radius: 10px;
+    z-index: 2;
+  }
